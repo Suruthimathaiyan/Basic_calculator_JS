@@ -1,0 +1,32 @@
+body{
+    background: black;
+}
+h1{
+    background: black;
+    color: red;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 300%;
+}
+h3{
+    background: linear-gradient(skyblue,white,pink);
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+}
+div{
+    background:linear-gradient(purple,white,pink);
+    height: 65px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    font-size: xx-large;
+}
+p{
+    text-align: center;
+    padding-top:25px ;
+    font-size: x-large;
+    font-weight: bolder;
+}
